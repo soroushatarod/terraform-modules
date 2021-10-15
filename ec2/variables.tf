@@ -1,0 +1,3 @@
+variable "power" {
+  type = "string" 
+}
